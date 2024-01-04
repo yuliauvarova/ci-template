@@ -1,0 +1,2 @@
+smoke-test-external-include-template-job:
+  script: echo "SMOKE - external template"
